@@ -6,6 +6,7 @@
     color: #60aee1;
     font-size: 18px;
     font-style: italic;
+    display: flex;
 }
 #header .slogan,
 #header .logo,
