@@ -11,6 +11,7 @@
     align-items: center;
     padding-top: 13px;
     padding-bottom: 27px;
+    flex-wrap: wrap;
 }
 #header .slogan,
 #header .logo,
@@ -19,16 +20,16 @@
 }
 
 #header .slogan{
-    flex: 1;
+    flex-basis: 300px;
 }
 #header .logo{
     text-align: center;
-    flex: 2;
+    flex-basis: 300px;
 }
 #header .personal{
     text-align: right;
-    flex: 1;
-    flex-wrap: nowrap;
+    flex-basis: 300px;
+
 }
 
 @media (max-width: 750px) {
