@@ -1,0 +1,24 @@
+/**
+  * Header based on flex--box philosophy
+  */
+#header{
+    font-family: 'Open Sans', sans-serif;
+    color: #60aee1;
+    font-size: 18px;
+    font-style: italic;
+}
+#header .slogan,
+#header .logo,
+#header .personal{
+    border: 1px solid red;
+}
+
+#header .slogan{
+
+}
+#header .logo{
+
+}
+#header .personal{
+
+}
