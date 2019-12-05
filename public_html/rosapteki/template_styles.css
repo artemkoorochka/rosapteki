@@ -7,7 +7,9 @@
     font-size: 18px;
     font-style: italic;
     display: flex;
-    align-items: flex-start;
+    align-items: stretch;
+    padding-top: 13px;
+    padding-bottom: 27px;
 }
 #header .slogan,
 #header .logo,
