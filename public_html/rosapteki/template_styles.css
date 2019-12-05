@@ -7,7 +7,7 @@
     font-size: 18px;
     font-style: italic;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
     padding-top: 13px;
     padding-bottom: 27px;
 }
