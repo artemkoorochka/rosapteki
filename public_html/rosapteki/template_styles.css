@@ -28,8 +28,9 @@
 #header .personal{
     text-align: right;
     flex: 1;
+    flex-wrap: nowrap;
 }
 
-@media (min-width: 751px) {
+@media (max-width: 750px) {
     
 }
