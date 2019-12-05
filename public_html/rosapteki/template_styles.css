@@ -15,11 +15,13 @@
 }
 
 #header .slogan{
-
+    flex: 1;
 }
 #header .logo{
-
+    text-align: center;
+    flex: 1;
 }
 #header .personal{
-
+    text-align: right;
+    flex: 1;
 }
