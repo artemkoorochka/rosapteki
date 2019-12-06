@@ -114,7 +114,12 @@ body{
 .row{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 .col{
     flex: 1;
+    border: 1px solid #ff0000;
+}
+.col-auto{
+    flex: 0 0 auto;
 }
