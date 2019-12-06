@@ -1,0 +1,120 @@
+/**
+  * HTML
+  */
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/**
+  * Styleshit
+  */
+.container{
+    width: 970px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**
+  * Bg
+  */
+.bg-primary{
+    background-color: #00a2ac;
+}
+
+/**
+  * Marginalism
+  */
+.m1{margin:5px;}
+.m2{margin:10px;}
+.m3{margin:15px;}
+.m4{margin:20px;}
+.m5{margin:24px;}
+.mx1{margin-left:5px;margin-right:5px;}
+.mx2{margin-left:10px;margin-right:10px;}
+.mx3{margin-left:15px;margin-right:15px;}
+.mx4{margin-left:20px;margin-right:20px;}
+.mx5{margin-left:24px;margin-right:24px;}
+.my1{margin-top:5px;margin-bottom:5px;}
+.my2{margin-top:10px;margin-bottom:10px;}
+.my3{margin-top:15px;margin-bottom:15px;}
+.my4{margin-top:20px;margin-bottom:20px;}
+.my5{margin-top:24px;margin-bottom:24px;}
+.mt1{margin-top:5px;}
+.mt2{margin-top:10px;}
+.mt3{margin-top:15px;}
+.mt4{margin-top:20px;}
+.mt5{margin-top:24px;}
+.mb1{margin-bottom:5px;}
+.mb2{margin-bottom:10px;}
+.mb3{margin-bottom:15px;}
+.mb4{margin-bottom:20px;}
+.mb5{margin-bottom:24px;}
+.ml1{margin-left:5px;}
+.ml2{margin-left:10px;}
+.ml3{margin-left:15px;}
+.ml4{margin-left:20px;}
+.ml5{margin-left:24px;}
+.mr1{margin-right:5px;}
+.mr2{margin-right:10px;}
+.mr3{margin-right:15px;}
+.mr4{margin-right:20px;}
+.mr5{margin-right:24px;}
+
+.p1{padding:5px;}
+.p2{padding:10px;}
+.p3{padding:15px;}
+.p4{padding:20px;}
+.p5{padding:24px;}
+.px1{padding-left:5px;padding-right:5px;}
+.px2{padding-left:10px;padding-right:10px;}
+.px3{padding-left:15px;padding-right:15px;}
+.px4{padding-left:20px;padding-right:20px;}
+.px5{padding-left:24px;padding-right:24px;}
+.py1{padding-top:5px;padding-bottom:5px;}
+.py2{padding-top:10px;padding-bottom:10px;}
+.py3{padding-top:15px;padding-bottom:15px;}
+.py4{padding-top:20px;padding-bottom:20px;}
+.py5{padding-top:24px;padding-bottom:24px;}
+.pt1{padding-top:5px;}
+.pt2{padding-top:10px;}
+.pt3{padding-top:15px;}
+.pt4{padding-top:20px;}
+.pt5{padding-top:24px;}
+.pb1{padding-bottom:5px;}
+.pb2{padding-bottom:10px;}
+.pb3{padding-bottom:15px;}
+.pb4{padding-bottom:20px;}
+.pb5{padding-bottom:24px;}
+.pl1{padding-left:5px;}
+.pl2{padding-left:10px;}
+.pl3{padding-left:15px;}
+.pl4{padding-left:20px;}
+.pl5{padding-left:24px;}
+.pr1{padding-right:5px;}
+.pr2{padding-right:10px;}
+.pr3{padding-right:15px;}
+.pr4{padding-right:20px;}
+.pr5{padding-right:24px;}
+
+/**
+  * Text
+  */
+.text-philosopher{font-family: 'Philosopher', sans-serif;}
+.text-reich{font-style: italic;}
+.text-12{font-size: 12px}
+.text-24{font-size: 24px}
+.text-dark{color: #282828;}
+
+/**
+  * Matrix ang grids
+  */
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    flex: 1;
+}
